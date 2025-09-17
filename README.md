@@ -29,7 +29,7 @@ Understand how to configure and test EC2 Security Groups by allowing and restric
 - Security Group with HTTP rule added
 
 ![](./AWS-EC2-SecurityGroups/Screenshots/SG-HTTP-Anywhere.png)
-![](./AWS-EC2-SecurityGroups/Screenshots/SG-HTTP-Result.png)
+![](./AWS-EC2-SecurityGroups/Screenshots/HTTP-Result.png)
 
 - Security Group restricted to specific IP
 
