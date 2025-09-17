@@ -1,0 +1,9 @@
+# From EC2 instance, test SSH
+ssh ec2-user@13.201.94.148
+
+# Test HTTP in browser
+http://13.201.94.148
+
+# Test ping (if ICMP allowed)
+ping Google.com
+
